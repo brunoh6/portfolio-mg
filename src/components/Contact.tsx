@@ -3,7 +3,7 @@ import { Linkedin } from "lucide-react"
 
 export default function Contact() {
   return (
-    <Section muted>
+    <Section>
       <div
         id="contacto"
         className="flex flex-col items-center text-center space-y-6"
